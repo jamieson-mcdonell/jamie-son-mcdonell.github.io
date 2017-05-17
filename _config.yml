@@ -9,7 +9,7 @@
 title: "Jamie's awesome Workspace"
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-"Havent decided what to put in yet, but lots of awesomefullness can be expected!"
+Test Message
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
